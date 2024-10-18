@@ -3,5 +3,8 @@ Each of the groups had a folder. Base on the sub-groups additional folder has to
 This repo is only for student work.
 
 NUCLEO-G474RE - STM32 Nucleo-64 development board with STM32G474RE MCU, supports Arduino and ST morpho connectivity – STMicroelectronics
-![image](https://github.com/user-attachments/assets/031b1a92-fd5b-45f6-9c47-8dba0cfd241b)
+https://www.st.com/en/evaluation-tools/nucleo-g474re
+
+STM32G474RE - Mainstream Arm Cortex-M4 MCU 170 MHz with 512 Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration - STMicroelectronics
+https://www.st.com/en/microcontrollers-microprocessors/stm32g474re.html
 
