@@ -1,0 +1,10 @@
+11:32:21 **** Incremental Build of configuration Debug for project NUCLEOG474RE ****
+make -j2 all 
+arm-none-eabi-size  NUCLEOG474RE.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10652	     32	   1744	  12428	   308c	NUCLEOG474RE.elf
+Finished building: default.size.stdout
+ 
+
+11:32:22 Build Finished. 0 errors, 0 warnings. (took 746ms)
+
